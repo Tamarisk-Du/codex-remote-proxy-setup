@@ -485,3 +485,8 @@ Ubuntu codex 包装脚本
     ↓
 Codex 桌面端远程项目通
 ```
+---
+
+## 相关文章
+
+- [Mac Clash + Remote Ubuntu 下解决 Codex 回答时反复 reconnect 的问题](./codex-reconnect-fix.md)
